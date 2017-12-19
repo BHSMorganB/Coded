@@ -6,21 +6,21 @@
     <string name="initial_score">Score 0/13</string>
 
 
-    <string name="incorrect_toast">Wrong!</string>
-    <string name="correct_toast">You got it!</string>
+    <string name="incorrect_toast">SIKE! That\'s the wrong answer!</string>
+    <string name="correct_toast">Correct!</string>
 
-    <string name="question_1">Valentine\'s day is banned in Saudi Arabia.</string>
-    <string name="question_2">A slug\'s blood is green.</string>
-    <string name="question_3">Approximately one quarter of human bones are in the feet.</string>
-    <string name="question_4">The total surface area of two human lungs is approximately 70 square metres.</string>
-    <string name="question_5">In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.</string>
-    <string name="question_6">In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.</string>
-    <string name="question_7">It is illegal to pee in the Ocean in Portugal.</string>
-    <string name="question_8">You can lead a cow down stairs but not up stairs.</string>
-    <string name="question_9">Google was originally called \"Backrub\".</string>
-    <string name="question_10">Buzz Aldrin\'s mother\'s maiden name was \"Moon\".</string>
-    <string name="question_11">The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</string>
-    <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
-    <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+    <string name="question_1">In Fallout 4, Mayor McDonough is a Synth.</string>
+    <string name="question_2">In Minecraft, Creepers were described by Notch himself to have skin that feels \"like seaweed\".</string>
+    <string name="question_3">In the Don\'t Starve series, there is only one character without a \"W\" at the start of their name.</string>
+    <string name="question_4">In Team Fortress 2, MONOCULUS! is actually Demoman\'s missing eye cursed by MERASMUS!.</string>
+    <string name="question_5">In the United States of America, Kinder Eggs are illegal.</string>
+    <string name="question_6">In the Fallout Series, the Vaults were specifically made to keep everyone safe in the event of nuclear war.</string>
+    <string name="question_7">In Garry\'s Mod, Garry himself does not play the game.</string>
+    <string name="question_8">Some goats can scream like humans.</string>
+    <string name="question_9">In Skyrim, the only way to get Daedra hearts is to kill Daedric enemies.</string>
+    <string name="question_10">In Minecraft Java Edition, hovering over the \"Play\" button will cause the screen to go into strobe mode after a seizure warning prompt.</string>
+    <string name="question_11">In Terraria, some of the yoyos have a real-life version available by One Drop YoYos.</string>
+    <string name="question_12">In Team Fortress 2, MERASMUS! and Soldier were roommates.</string>
+    <string name="question_13">Wombats have cylinder-shaped feces.</string>
 
 </resources>
